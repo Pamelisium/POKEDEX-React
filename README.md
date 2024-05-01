@@ -1,4 +1,4 @@
-# Old.St Labs Technical Exam - Pamela Anne Serrano
+# POKÉDEX in React
 Recreation of a POKÉDEX - a simple catalogue webpage where you can list and view details of the Pokémons - using React
 
 ## Requirements
@@ -7,8 +7,8 @@ Recreation of a POKÉDEX - a simple catalogue webpage where you can list and vie
 - React: https://react.dev/learn/installation
 
 ## Setting-up
-- Clone the project with `git clone https://github.com/Pamelisium/Old.St-Labs-Technical-Exam.git`
-- Move to the main directory with `cd Old.St-Labs-Technical-Exam`
+- Clone the project with `git clone https://github.com/Pamelisium/POKEDEX-React.git`
+- Move to the main directory with `cd POKEDEX-React`
 - Install the dependencies with `npm install`
 
 ## Running the Web App
